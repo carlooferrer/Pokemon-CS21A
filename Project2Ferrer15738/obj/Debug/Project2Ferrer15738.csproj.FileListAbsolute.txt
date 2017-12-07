@@ -1,0 +1,49 @@
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.exe.config
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.exe
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.pdb
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.CatchForm.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.EditCMForm.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.MainForm.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.Properties.Resources.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.RegisterForm.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.ViewBagForm.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.ViewPokedex.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csproj.GenerateResource.Cache
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.exe
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.pdb
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.ViewProfile.resources
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csproj.ResolveComReference.cache
+C:\Users\Carlo\Desktop\-\SCHOOL\Sophomore Year\CS21A\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.Gym.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.exe.config
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csproj.ResolveComReference.cache
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.exe
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.pdb
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.exe
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.pdb
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.CatchForm.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.EditCMForm.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.MainForm.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.Gym.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.Properties.Resources.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.RegisterForm.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.ViewBagForm.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.ViewPokedex.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.ViewProfile.resources
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csproj.GenerateResource.Cache
+C:\Users\Carlo\Desktop\Project2Ferrer15738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.Potions.resources
+C:\Users\Carlo\Desktop\Project2Ferrer151738Solution\Project2Ferrer15738\bin\Debug\Project2Ferrer15738.exe.config
+C:\Users\Carlo\Desktop\Project2Ferrer151738Solution\Project2Ferrer15738\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carlo\Desktop\Project2Ferrer151738Solution\Project2Ferrer15738\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlo\Desktop\Project2Ferrer151738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.csproj.ResolveComReference.cache
+C:\Users\Carlo\Desktop\Project2Ferrer151738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.exe
+C:\Users\Carlo\Desktop\Project2Ferrer151738Solution\Project2Ferrer15738\obj\Debug\Project2Ferrer15738.pdb
